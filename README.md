@@ -16,16 +16,6 @@ IoT projects using ESP32 / Arduino
 
 Computer vision & automation
 
-🌱 Currently Learning
-
-Python (advanced concepts)
-
-Flask & backend architecture
-
-REST APIs and server-client communication
-
-Git & GitHub best practices
-
 🛠️ Skills & Technologies
 
 Languages: Python, C, C++, HTML, CSS, JavaScript
