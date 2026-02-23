@@ -1,45 +1,55 @@
-👋 Hi, I’m Jasstin Roy
+<h1 align="center">Hi 👋, I'm Jasstin Roy</h1>
+<h3 align="center">Computer Science & Engineering Student | Aspiring Full-Stack Developer</h3>
 
-🎓 Computer Science & Engineering student
-💻 Aspiring Full-Stack Developer
-🤖 Interested in AI, IoT, and Smart Systems
+---
 
-👀 Interests
+### 🚀 About Me
+- 🎓 Student at ITER, SOA University  
+- 🤖 Interested in AI, IoT & Smart Systems  
+- 🛠 Currently building real-world AI + IoT projects  
+- 🌱 Learning Advanced DSA & Full-Stack Development  
+- 📫 Reach me at: **sy2373570@gmail.com**
 
-Full-stack web development
+---
 
-Backend development with Python & Flask
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://github.com/Jasstinroy" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
 
-AI-based real-world applications
+---
 
-IoT projects using ESP32 / Arduino
+### 💻 Languages and Tools
+<p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
 
-Computer vision & automation
+---
 
-🛠️ Skills & Technologies
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Jasstinroy&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasstinroy&theme=tokyonight" />
+</p>
 
-Languages: Python, C, C++, HTML, CSS, JavaScript
+---
 
-Backend: Flask, REST APIs
+### 🧠 Featured Projects
+- 🚗 AI Smart Parking System (HAL Internship)
+- 🧩 Autism Assistive Smart Belt (IoT + ML)
+- 🎨 Color Detection System for Color-Blind Assistance
 
-AI / ML: TensorFlow, YOLO
-
-IoT: ESP32, Arduino
-
-Tools: Git, GitHub, Google Colab, VS Code
-
-🏭 Experience
-
-Internship at Hindustan Aeronautics Limited (HAL)
-Sukhoi Engine Division, Koraput
-Worked on AI-enabled Smart Parking System
-
-📫 How to Reach Me
-
-📧 Email: sy2373570@gmail.com
-
-💼 GitHub: github.com/Jasstinroy
-<!---
-Jasstinroy/Jasstinroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
