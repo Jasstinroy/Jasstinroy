@@ -65,12 +65,5 @@ Built during internship at HAL Koraput — AI-based vehicle detection & slot mon
 ### 🎗 Autism Assistive Smart Belt
 IoT + ML based wearable alert system using ESP32 + Flask backend.
 
-### 🎨 Color Detection System for Color-Blind Users
-Camera-based object color detection with AI voice feedback.
 
 ---
-
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jasstinroy/Jasstinroy/output/github-contribution-grid-snake.svg" />
-</p>
