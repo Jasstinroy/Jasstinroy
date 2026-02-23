@@ -72,4 +72,5 @@ Camera-based object color detection with AI voice feedback.
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Jasstinroy/Jasstinroy/output/github-contribution-grid-snake.svg" />
 </p>
