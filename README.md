@@ -1,31 +1,36 @@
-<h1 align="center">Hi 👋, I'm Jasstin Roy</h1>
-<h3 align="center">Computer Science & Engineering Student | Aspiring Full-Stack Developer</h3>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Jasstin+Roy;CSE+Student+%7C+Full+Stack+Developer;AI+%2B+IoT+Enthusiast;Building+Smart+Systems+🚀" />
+</h1>
+
+<h3 align="center">Computer Science & Engineering Student | ITER, SOA University</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 Student at ITER, SOA University  
-- 🤖 Interested in AI, IoT & Smart Systems  
-- 🛠 Currently building real-world AI + IoT projects  
-- 🌱 Learning Advanced DSA & Full-Stack Development  
-- 📫 Reach me at: **sy2373570@gmail.com**
+## 🚀 About Me
+- 🎓 CSE Student at ITER, SOA  
+- 🤖 Passionate about AI, IoT & Computer Vision  
+- 🛠 Built AI-enabled Smart Parking System (HAL Internship)  
+- 🧠 Developing Assistive Tech using ESP32 + ML  
+- 🌱 Currently learning Advanced DSA & System Design  
+- 📫 Email: **sy2373570@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://github.com/Jasstinroy" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<a href="https://github.com/Jasstinroy">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
 </a>
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
 </a>
 </p>
 
 ---
 
-### 💻 Languages and Tools
-<p align="left"> 
+## 💻 Tech Stack
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
@@ -36,20 +41,36 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jasstinroy&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasstinroy&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jasstinroy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasstinroy&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasstinroy&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 🧠 Featured Projects
-- 🚗 AI Smart Parking System (HAL Internship)
-- 🧩 Autism Assistive Smart Belt (IoT + ML)
-- 🎨 Color Detection System for Color-Blind Assistance
+## 🧠 Featured Projects
+### 🚗 AI Smart Parking System
+Built during internship at HAL Koraput — AI-based vehicle detection & slot monitoring.
 
+### 🎗 Autism Assistive Smart Belt
+IoT + ML based wearable alert system using ESP32 + Flask backend.
+
+### 🎨 Color Detection System for Color-Blind Users
+Camera-based object color detection with AI voice feedback.
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+<img src="https://github.com/Jasstinroy/Jasstinroy/blob/output/github-contribution-grid-snake.svg" />
+</p>
