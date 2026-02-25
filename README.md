@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Jasstin+Roy;CSE+Student+%7C+Full+Stack+Developer;AI+%2B+IoT+Enthusiast;Building+Smart+Systems+🚀" />
 </h1>
 
-<h3 align="center">Computer Science & Engineering Student | ITER, SOA University</h3>
+<h3 align="center">Computer Science & Engineering Studenttt | ITER, SOA University</h3>
 
 ---
 
