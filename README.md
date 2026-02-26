@@ -1,4 +1,4 @@
-jknkn<!-- Animated Typing Header -->
+<!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Jasstin+Roy;CSE+Student+%7C+Full+Stack+Developer;AI+%2B+IoT+Enthusiast;Building+Smart+Systems+🚀" />
 </h1>
