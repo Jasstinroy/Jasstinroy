@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+#🚀 About Me
 - 🎓 CSE Student at ITER, SOA  
 - 🤖 Passionate about AI, IoT & Computer Vision  
 - 🛠 Built AI-enabled Smart Parking System (HAL Internship)  
